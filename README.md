@@ -9,7 +9,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=wael-younes" alt="wael-younes" />
 </p>
 
-- 🔭 I’m currently working on **a bee product e-commerce website using Laravel**
+- 🔭 I’m currently working on **a bee products and courses e-commerce website using Laravel**
 
 - 🌱 I’m currently learning **Laravel**
 
