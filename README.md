@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/wael-younes](https://github.com/wael-younes)
 
-- 📫 How to reach me **wael.younes@example.com** *(replace with your real email)*
+- 📫 How to reach me **w.younes1212@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
