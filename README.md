@@ -15,10 +15,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wael-younes&show_icons=true&locale=en" alt="wael-younes" /></p>
 
-- 🔭 I’m currently working on **a bee products and courses e-commerce website using Laravel**
-
-- 🌱 I’m currently learning **Laravel**
-
-- 👨‍💻 All of my projects are available at [https://github.com/wael-younes](https://github.com/wael-younes)
-
-- 📫 How to reach me **w.younes1212@gmail.com**
