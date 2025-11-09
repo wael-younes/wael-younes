@@ -1,4 +1,9 @@
-![Diamond](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif) Wael Younes
+<p align="center">
+  <a href="https://github.com/yourusername/yourrepo">
+    <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="150" />
+  </a>
+</p>
+ Wael Younes
 ====================================================================================================================================
 
 Where bad codes meet its AI match
