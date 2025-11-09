@@ -1,4 +1,17 @@
- Wael Younes ([] https://www.pinterest.com/pin/loading--291608144614362046/)
+ Wael Younes <!-- Diamond 1 -->
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100">
+
+<!-- Diamond 2 -->
+<img src="https://media.giphy.com/media/xT0GqeSlGSRQut5RVe/giphy.gif" width="100">
+
+<!-- Diamond 3 -->
+<img src="https://media.giphy.com/media/3ohhwJ1x4LQ7fKCE0A/giphy.gif" width="100">
+
+<!-- Diamond 4 -->
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
+
+<!-- Diamond 5 -->
+<img src="https://media.giphy.com/media/3o7TKrPjVqH5tq6J3C/giphy.gif" width="100">
 
 
 
