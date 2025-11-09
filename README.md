@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="https://github.com/yourusername/yourrepo">
-    <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="150" />
-  </a>
-</p>
- Wael Younes
+https://cdn.dribbble.com/userupload/20336546/file/original-83b4ac4ac79ff4e1eb1982dd8d6a51d7.gif Wael Younes
 ====================================================================================================================================
 
 Where bad codes meet its AI match
