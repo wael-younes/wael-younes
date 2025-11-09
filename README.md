@@ -1,7 +1,7 @@
-https://cdn.dribbble.com/userupload/20336546/file/original-83b4ac4ac79ff4e1eb1982dd8d6a51d7.gif Wael Younes
+ Wael Younes
 ====================================================================================================================================
 
-Where bad codes meet its AI match
+Where bad codes meet its AI match ![]([(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVyNmNuNmVsYWV2OGxoc2s2aHh0dTE0cG1zbmUzdXVlMTk4dHFvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fl3jw1xFrpmxGUrWzS/giphy.gif])
 ---------------------------------
 
 Four Years Computer Science BS graduated in 2024, Laravel internship four months directly after graduation and now I am doing Se Factory Bootcamp FSE after completing FCS.
