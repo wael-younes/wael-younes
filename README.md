@@ -1,5 +1,4 @@
-![Diamond](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
- Wael Younes
+![Diamond](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif) Wael Younes
 ====================================================================================================================================
 
 Where bad codes meet its AI match
