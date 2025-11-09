@@ -19,9 +19,9 @@ Four Years Computer Science BS graduated in 2024, Laravel internship four months
 <p align="left"> <a href="https://www.github.com/wael-younes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 <a href="https://www.github.com/wael-younes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/wael-younes?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
-### Badges
 
-<b>My GitHub Stats</b>
+
+<b>GitHub Stats</b>
 
 <a href="http://www.github.com/wael-younes"><img src="https://github-readme-stats.vercel.app/api?username=wael-younes&show_icons=true&hide=&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="wael-younes's GitHub stats" /></a>
 
