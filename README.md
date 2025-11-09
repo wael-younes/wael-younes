@@ -1,6 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Wael Younes
 ====================================================================================================================================
 
+Where bad codes meet its AI match
+---------------------------------
+
+Four Years Computer Science BS graduated in 2024, Laravel internship four months directly after graduation and now I am doing Se Factory Bootcamp FSE after completing FCS.
+
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [w.younes1212@gmail.com](mailto:w.younes1212@gmail.com)
 * 🧠  I'm currently learning FSE Bootcamp at SE Factory
