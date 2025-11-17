@@ -4,7 +4,7 @@
 
 Where bad codes meet its AI match
 ---------------------------------------------------------
-Four Years Computer Science BS graduated in 2024, Laravel internship four months directly after graduation and now I am doing Se Factory Bootcamp FSE after completing FCS.
+Four Years Computer Science BS graduated in 2024, Laravel internship four months directly after graduation.
 
 
 
