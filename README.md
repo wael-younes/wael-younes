@@ -2,9 +2,9 @@
  <br>
 <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100">
 
-Where bad codes meet its AI match
+
 ---------------------------------------------------------
-Four Years Computer Science BS graduated in 2024, Laravel internship four months directly after graduation.
+
 
 
 
